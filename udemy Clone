@@ -1,0 +1,26 @@
+📚 Udemy Clone - Frontend Project
+This is a responsive clone of the Udemy homepage, built using HTML and CSS. It replicates key design features such as:
+
+Navigation bar with search and category buttons
+
+Hero section with promotional banner
+
+Recommended course section
+
+Fully responsive layout
+
+⚡ Created as a frontend learning project to practice layout design, responsive techniques, and UI consistency.
+
+🔧 Technologies Used
+HTML5
+
+CSS3 (Flexbox & Media Queries)
+
+Font Awesome (optional for icons)
+
+💡 Future Enhancements
+Add JavaScript interactivity (like course filtering or search functionality)
+
+Integrate a backend to fetch course data dynamically
+
+Improve accessibility (ARIA labels, semantic tags)
