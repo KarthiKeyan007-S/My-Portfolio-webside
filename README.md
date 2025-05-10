@@ -41,17 +41,7 @@ I built this project to:
 
 ---
 
-## 📸 Screenshots
 
-### Home Page
-
-![Home Page Screenshot](path-to-home-screenshot.png)
-
-### Contact Page
-
-![Contact Page Screenshot](path-to-contact-screenshot.png)
-
-*(Replace with actual image paths or URLs if you upload them to GitHub)*
 
 ---
 
@@ -67,4 +57,5 @@ I built this project to:
 
 1. Clone the repository:
    ```bash
+   https://karthikeyan007-s.github.io/My-Portfolio-webside/
    
